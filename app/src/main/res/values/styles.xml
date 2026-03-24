@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom Text Input Layout Style -->
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary_light</item>
+        <item name="hintTextColor">@color/primary_light</item>
+        <item name="android:textColorHint">@color/text_muted</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with Ocean Breeze colors -->
+    <style name="Theme.SocialSparks" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary_teal</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_light</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/primary_light</item>
+        <item name="colorSecondaryVariant">@color/accent_sage</item>
+        <item name="colorOnSecondary">@color/text_light</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+
+        <!-- Background color -->
+        <item name="android:windowBackground">@color/bg_gradient_start</item>
+
+        <!-- Customize your theme here -->
+    </style>
+</resources>
