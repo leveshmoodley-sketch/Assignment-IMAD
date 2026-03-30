@@ -108,6 +108,7 @@ Click the badge above to watch the complete app demonstration
 
 
 Note**Screenshots have not been put on readme but directly into the main branch**
+Note**Ai tester certificate also uploaded on main branch**
 
 -----------------------------------------------------------------------------------------
 📁 Code Structure
