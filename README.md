@@ -54,7 +54,7 @@ Whether you’re looking to build better habits, or just want an excuse to check
 
 
 
-Key Dependencies
+Key Dependencies and Information
 ```gradle
 dependencies {
     implementation 'androidx.core:core-ktx:1.12.0'
@@ -63,7 +63,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 }
 
-
+------------------------------------------------------------------------------
 ##🎮 How to Use
 Basic Usage
 Enter Time: Type a time of day (e.g., "Morning", "Afternoon", "Dinner", "Night")
@@ -71,8 +71,9 @@ Enter Time: Type a time of day (e.g., "Morning", "Afternoon", "Dinner", "Night")
 Get Spark: Tap the "Get Spark" button to receive your social suggestion
 
 Reset: Tap "Reset" to clear all fields and start over
+--------------------------------------------------------------------------------
 
-
+--------------------------------------------------------------------------------
 Advanced Features
 Feature	How to Use
 🎲 Random Spark	Tap "Surprise" for a random creative suggestion
@@ -81,8 +82,10 @@ Feature	How to Use
 📜 History	Tap "History" to see your recent sparks
 📤 Share	Tap "Share" to send a spark via messaging apps
 🚪 Exit	Tap "Exit" to close the app
+---------------------------------------------------------------------------------
 
 
+------------------------------------------------
 Input Examples
 Morning → Good morning text suggestion
 
@@ -95,16 +98,14 @@ Afternoon Snack → Thinking of you message
 Dinner → Call suggestion
 
 Night or Evening → Comment suggestion
-
+------------------------------------------------
 
 🎥 Video Demonstration
 Watch the Video
 https://youtu.be/sn3FPoZD9xY
-
-
 Click the badge above to watch the complete app demonstration
 
-
+-----------------------------------------------------------------------------------------
 📁 Code Structure
 MainActivity - Key Functions
 class MainActivity : AppCompatActivity() {
@@ -145,7 +146,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
+------------------------------------------------------------------------------------------
 
 Code Quality Features
 Comprehensive Comments: Every function is documented
@@ -156,7 +157,7 @@ Error Handling: Graceful error messages
 
 Efficient Code: No redundancy, clean structure
 
-
+--------------------------------------------------------------
 👩‍💻 Author
 Levesh Moodley
 
