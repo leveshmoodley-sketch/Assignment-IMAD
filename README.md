@@ -54,7 +54,7 @@ Whether you’re looking to build better habits, or just want an excuse to check
 
 
 
-### Key Dependencies
+Key Dependencies
 ```gradle
 dependencies {
     implementation 'androidx.core:core-ktx:1.12.0'
