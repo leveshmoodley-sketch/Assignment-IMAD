@@ -64,7 +64,7 @@ dependencies {
 }
 
 
-🎮 How to Use
+##🎮 How to Use
 Basic Usage
 Enter Time: Type a time of day (e.g., "Morning", "Afternoon", "Dinner", "Night")
 
