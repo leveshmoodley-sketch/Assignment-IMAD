@@ -103,7 +103,11 @@ Night or Evening → Comment suggestion
 🎥 Video Demonstration
 Watch the Video
 https://youtu.be/sn3FPoZD9xY?si=kSm-YBW-813XCAFx
+Note**Please copy the link and paste in your browser**
 Click the badge above to watch the complete app demonstration
+
+
+Note**Screenshots have not been put on readme but directly into the main branch**
 
 -----------------------------------------------------------------------------------------
 📁 Code Structure
