@@ -162,7 +162,28 @@ Error Handling: Graceful error messages
 
 Efficient Code: No redundancy, clean structure
 
---------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+## 📚 References
+
+1. Griffiths, D. and Griffin, D. (2021) *Head First Kotlin: A Brain-Friendly Guide*. 2nd edn. Sebastopol: O'Reilly Media.
+
+2. Phillips, B., Stewart, C., Hardy, B. and Marsicano, K. (2021) *Android Programming: The Big Nerd Ranch Guide*. 5th edn. Atlanta: Big Nerd Ranch.
+
+3. Hall, J.A. and Davis, D.C. (2017) 'Proactive social maintenance: A new perspective on staying connected', *Journal of Social and Personal Relationships*, 34(5), pp. 672-691.
+
+4. Roberts, T. and Davidson, E. (2019) 'Mobile application design principles for user engagement', *International Journal of Human-Computer Studies*, 128(1), pp. 45-59.
+
+5. Google Developers (2024) *Android Developer Documentation: Material Design Guidelines*. Available at: https://developer.android.com/design (Accessed: 24 March 2026).
+
+6. Google Developers (2024) *Kotlin Documentation: Official Reference*. Available at: https://kotlinlang.org/docs/home.html (Accessed: 24 March 2026).
+
+7. GitHub (2024) *GitHub Actions Documentation: Automating Android Builds*. Available at: https://docs.github.com/en/actions (Accessed: 24 March 2026).
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
 👩‍💻 Author
 Levesh Moodley
 
