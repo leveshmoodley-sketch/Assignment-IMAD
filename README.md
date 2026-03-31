@@ -167,7 +167,7 @@ Section(s) where Generative AI was used:
 - Debugging: Understanding and fixing error messages
 
 Name of AI Tool(s) Used:
-- ChatGPT (OpenAI)
+- Claude
 - GitHub Copilot (GitHub)
 
 Purpose/Intention:
