@@ -97,32 +97,10 @@ This automation means I don’t have to worry about missing builds or letting bu
 
 Screenshots
 
-Main Screen with Empty State:
-![Main Screen Empty](screenshots/main_empty.png)
-Here’s the home screen—input field and buttons, waiting for users to do something.
-
-Suggestion Display:
-![Suggestion Display](screenshots/suggestion_display.png)
-After entering “Morning,” the app suggests something—complete with an emoji for a little extra spark.
-
-Current Time Feature:
-![Current Time Detection](screenshots/current_time.png)
-The app figures out the device’s current time and gives a relevant suggestion automatically.
-
-Random Spark:
-![Random Spark](screenshots/random_spark.png)
-Tap the Surprise button and get a random suggestion—quick and easy.
-
-History Dialog:
-![History View](screenshots/history.png)
-You can view the last 10 suggestions generated in the app, all neatly collected in a dialog.
-
-Favorite Saved:
-![Favorite Saved](screenshots/favorite.png)
-Star icon lights up when you save a suggestion to favorites.
+--Uploaded on the main branch--
 
 Video Demo:
-Check out a video demo of the app here: [YouTube Video Link]
+Check out a video demo of the app here: [https://youtu.be/sn3FPoZD9xY]
 
 ---
 
@@ -162,7 +140,7 @@ The app works well now, but there’s plenty more I’d like to add:
 
 References
 
-The Independent Institute of Education (2026). *Introduction to Mobile Application Development: IPRG5111/p/w Module Manual 2026*. [Unpublished course material].
+The Independent Institute of Education (2026). *Introduction to Mobile Application Development: IMAD5112/p/w Module Manual 2026*. [Unpublished course material].
 
 ---
 
@@ -174,6 +152,7 @@ List of Figures
 - Figure 4: Random spark suggestion
 - Figure 5: History dialog showing recent suggestions
 - Figure 6: Favorite star highlighted
+- Figure 7:Exit
 
 ---
 
